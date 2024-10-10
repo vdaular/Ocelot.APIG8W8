@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ocelot.APIG8W8", "Ocelot.APIG8W8\Ocelot.APIG8W8.csproj", "{5D76C140-0A8E-42B2-B8E1-891106E7B77A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D76C140-0A8E-42B2-B8E1-891106E7B77A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D76C140-0A8E-42B2-B8E1-891106E7B77A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D76C140-0A8E-42B2-B8E1-891106E7B77A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D76C140-0A8E-42B2-B8E1-891106E7B77A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E7CE668-B9BB-4927-8E72-58792345525A}
+	EndGlobalSection
+EndGlobal
